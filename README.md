@@ -66,7 +66,7 @@ The Netherlands, Ireland, and Germany again emerge as top performers. Although s
 
 ## Files Included
 
-- `Tata_Retail_Dashboard.twbx`: Packaged Tableau workbook
+- `Tata_Retail_Dashboard.twb`: Packaged Tableau workbook
 - `screenshots/`: Folder containing PNG images of all visualisations
 
 ---
